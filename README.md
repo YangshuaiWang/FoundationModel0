@@ -1,6 +1,6 @@
 # FoundationModel0
 
-This repositropy mainly collects the essential information of one of the best foundation model in atomistic materials chemistry:
+This repository mainly collects the essential information of one of the best foundation models in atomistic materials chemistry:
 
 1. What are the MACE-MP-0 models?
 https://github.com/ACEsuit/mace?tab=readme-ov-file#pretrained-foundation-models
